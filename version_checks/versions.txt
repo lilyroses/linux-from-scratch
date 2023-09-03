@@ -1,0 +1,20 @@
+bash            3.2 (/bin/sh -> /usr/bin/bash)
+binutils        2.13.1, 2.41
+bison           2.7 (/usr/bin/yacc -> /usr/bin/bison)
+coreutils       7.0
+diffutils       2.8.1
+findutils       4.2.31
+gawk            4.0.1 (/usr/bin/awk -> /usr/bin/gawk)
+gcc             5.1, 12.2.0
+grep            2.5.1a
+gzip            1.3.12
+linux kernel    3.2
+m4              1.4.10
+make            4.0
+patch           2.5.4
+perl            5.8.8
+python          3.4
+sed             4.1.5
+tar             1.22
+texinfo         4.7
+xz              5.0.0
