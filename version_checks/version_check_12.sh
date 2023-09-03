@@ -72,6 +72,7 @@ alias_check() {
    then printf "OK:    %-4s is $2\n" "$1";
    else printf "ERROR: %-4s is NOT $2\n" "$1"; fi
 }
+
 echo "Aliases:"
 alias_check awk GNU
 alias_check yacc Bison
